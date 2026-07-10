@@ -1,1 +1,1 @@
-# Culprit-programming-notes
+Here in my git account you will get free handy notes on about various programming languages
